@@ -8,3 +8,4 @@ This repo stores daily exercises and mini-projects, from basics to more advanced
 | Day | Project Name | Key Concepts Learned |
 |---|---|---|
 | Day 1 | Hello, Info | `#include`, `main()`, variable declaration (`int`, `float`, `char[]`), `printf()` with format specifiers `%d %f %s` |
+| Day 2 | Simple Calculator | Arithmetic operators, `scanf()` for user input, float formatting |
